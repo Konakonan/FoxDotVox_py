@@ -1,0 +1,6 @@
+FoxDot.start
+
+→ショートカット
+・Ctl+enter >>スタート
+・Ctl+. >>全消し
+・Ctl+K >>help
