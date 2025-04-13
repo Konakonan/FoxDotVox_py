@@ -4,3 +4,9 @@ FoxDot.start
 ・Ctl+enter >>スタート
 ・Ctl+. >>全消し
 ・Ctl+K >>help
+
+
+
+
+→用語(?)
+・シンセサイザー（synthesizer） >>p1 >> xxx(...) の xxx の部分のこと。
